@@ -1,0 +1,53 @@
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawTests.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawTests.pdb
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.exe
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.pdb
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.exe.config
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csprojAssemblyReference.cache
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csproj.CoreCompileInputs.cache
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csproj.CopyComplete
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.dll
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.pdb
+C:\Users\Alex Grg\Desktop\FinalProject\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.xml
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawTests.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawTests.pdb
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.exe
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.pdb
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.xml
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.exe.config
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csprojAssemblyReference.cache
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csproj.CopyComplete
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.dll
+C:\Users\hride\Downloads\Gurung-77181439\Gurung-77181439\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.pdb
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawTests.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawTests.pdb
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.exe
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.pdb
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.xml
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\DrawWithCommandline.exe.config
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csprojAssemblyReference.cache
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csproj.CoreCompileInputs.cache
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.csproj.CopyComplete
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.dll
+D:\ASE\comp2\DrawProject\DrawWithCommandline\DrawTests\obj\Debug\DrawTests.pdb

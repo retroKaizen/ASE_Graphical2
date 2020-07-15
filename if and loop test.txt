@@ -1,0 +1,7 @@
+counter = 2
+if counter = 2 then
+Loop 2
+circle  40
+circle 80
+endloop
+endif

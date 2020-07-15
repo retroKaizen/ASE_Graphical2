@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DrawWithCommandline</name>
+    </assembly>
+    <members>
+        <member name="M:Shapes.Circle.Draw(System.Drawing.Graphics)">
+            <summary>
+            to draw circle 
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:Shapes.Circle.SetParam(System.Int32,System.Int32,System.Int32,System.Int32,System.Drawing.Color)">
+            <summary>
+            parameter to draw circle
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="width"></param>
+            <param name="height"></param>
+            <param name="color"></param>        
+        </member>
+        <member name="M:Shapes.Rectangles.Draw(System.Drawing.Graphics)">
+            <summary>
+            draw rectangle
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:Shapes.Rectangles.SetParam(System.Int32,System.Int32,System.Int32,System.Int32,System.Drawing.Color)">
+            <summary>
+            parameter for rectangle with color
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="width"></param>
+            <param name="height"></param>
+            <param name="color"></param>
+        </member>
+        <member name="M:DrawWithCommandline.Draw.btnOpen_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:DrawWithCommandline.Draw.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DrawWithCommandline.Draw.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DrawWithCommandline.Draw.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DrawWithCommandline.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:DrawWithCommandline.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DrawWithCommandline.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DrawWithCommandline.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:DrawWithCommandline.Properties.Resources.eraser">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DrawWithCommandline.Properties.Resources.pen">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

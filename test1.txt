@@ -1,0 +1,3 @@
+circle 200
+triangle 34, 76, 58
+rectangle 100, 200
