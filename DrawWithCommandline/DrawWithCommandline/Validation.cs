@@ -448,7 +448,84 @@ namespace DrawWithCommandline
                     }
                 }
             }
-            
+            else
+            {
+                Boolean hasPlus = lineOfCommand.Contains('+');
+                Boolean hasEquals = lineOfCommand.Contains("=");
+                if (!hasEquals && !hasPlus)
+                {
+                    isValidCommand = false;
+                }
+                else
+                {
+                    if (hasEquals)
+                    {
+                        string[] words2 = lineOfCommand.Split('=');
+                        for (int i = 0; i < words2.Length; i++)
+                        {
+                            words2[i] = words2[i].Trim();
+                        }
+                        Boolean firstWordIsVariable = variable.Contains(words2[0].ToLower());
+                        if (!firstWordIsVariable)
+                        {
+                            isValidCommand = false;
+                        }
+                        else
+                        {
+                            if (words2.Length != 2)
+                            {
+                                isValidCommand = false;
+                            }
+                            else
+                            {
+                                //third char should be int to be valid  
+
+                                Boolean isInt = words2[1].All(char.IsDigit);
+                                if (!isInt)
+                                {
+                                    isValidCommand = false;
+                                }
+                            }
+                        }
+
+                    }
+                    if (hasPlus)
+                    {
+                        string[] words2 = lineOfCommand.Split('+');
+                        for (int i = 0; i < words2.Length; i++)
+                        {
+                            words2[i] = words2[i].Trim();
+                        }
+                        Boolean firstWordIsVariable = variable.Contains(words2[0].ToLower());
+                        if (!firstWordIsVariable)
+                        {
+                            isValidCommand = false;
+                        }
+                        else
+                        {
+                            if (words2.Length != 2)
+                            {
+                                isValidCommand = false;
+                            }
+                            else
+                            {
+                                //third char should be int to be valid
+
+                                Boolean isInt = words2[1].All(char.IsDigit);
+                                if (!isInt)
+                                {
+                                    isValidCommand = false;
+                                }
+                            }
+                        }
+
+                    }
+                }
+            }
+            if (!isValidCommand)
+            {
+                isSomethingInvalid = true;
+            }
 
         }
         
