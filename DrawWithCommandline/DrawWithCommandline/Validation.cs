@@ -528,6 +528,47 @@ namespace DrawWithCommandline
             }
 
         }
+
+        public void checkIfVariableDefined(string variable)
+        {
+            Boolean isVaraibleFound = false;
+            if (txtCommand.Lines.Length > 1)
+            {
+                if (lineNumber > 0)
+                {
+                    for (int i = 0; i < lineNumber; i++)
+                    {
+                        String oneLineCommand = txtCommand.Lines[i];
+                        oneLineCommand = oneLineCommand.Trim();
+                        if (!oneLineCommand.Equals(""))
+                        {
+                            Boolean isVariableDefined = oneLineCommand.ToLower().Contains(variable.ToLower());
+                            if (isVariableDefined)
+                            {
+                                isVaraibleFound = true;
+                            }
+                        }
+
+                    }
+                    if (!isVaraibleFound)
+                    {
+                        MessageBox.Show("Varaible is not defined");
+                        isValidCommand = false;
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Varaible is not defined");
+                    isValidCommand = false;
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Varaible is not defined");
+                isValidCommand = false;
+            }
+        }
         
     }
 }
